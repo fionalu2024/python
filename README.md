@@ -1,5 +1,4 @@
 # python
-Python Projects
 
 **Project1: the NHANES Study**
 
