@@ -10,4 +10,4 @@ Please refer to 'DataMining_Health.html'.
 
 Photography Stack Exchange is actively used by enthusiast photographers who are either professional or amateur, with over 25,000 questions and 65,000 answers currently. This study conducts several analyses by exploring recent data dumps from the site.
 
-Please refer to 'DataCleasing_Photo.html'. 
+Please refer to 'DataCleasing_Photo.pdf'. 
